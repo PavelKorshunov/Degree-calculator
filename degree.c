@@ -2,7 +2,6 @@
 
 int main()
 {
-
 	int degree, result;
 
 	printf("Enter the degree ");
